@@ -1,1 +1,2 @@
 I successfully created my git hub
+Now I'm using fetch command
